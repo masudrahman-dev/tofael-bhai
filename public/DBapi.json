@@ -1,0 +1,237 @@
+[
+  [
+    {
+      "id": "1",
+      "company_logo": "https://i.ibb.co/Sy45jYW/tesla-9-1.png ",
+      "job_title": "Software Engineer",
+      "company_name": "ABC Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "100k-200k",
+      "job_description": "We are seeking a highly skilled software engineer to join our team...",
+      "job_responsibility": "Design, develop, and maintain software applications...",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
+      "experiences": "3+ years of experience in software development...",
+      
+        "phone": "(555) 123-4567",
+        "email": "careers@abcinc.com"
+      
+    },
+    {
+      "id": "2",
+      "company_logo": "https://i.ibb.co/W3WKf7n/netflix-4-1.png ",
+      "job_title": "Marketing Manager",
+      "company_name": "XYZ Corp.",
+      "remote_or_onsite": "Remote",
+      "location": "Any",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "150k-200k",
+      "job_description": "We are looking for a creative and driven Marketing Manager...",
+      "job_responsibility": "Develop and execute marketing campaigns...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field...",
+      "experiences": "5+ years of experience in marketing...",
+      
+        "phone": "(555) 987-6543",
+        "email": "careers@xyzcorp.com"
+      
+    },
+    {
+      "id": "3",
+      "company_logo": "https://i.ibb.co/ThKb0jG/Group-10021.png",
+      "job_title": "Graphic Designer",
+      "company_name": "LMNT Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "100k-220k",
+      "job_description": "We are seeking a talented Graphic Designer...",
+      "job_responsibility": "Create visual concepts...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field...",
+      "experiences": "2+ years of experience in graphic design...",
+
+        "phone": "(555) 555-5555",
+        "email": "careers@lmnco.com"
+      
+    },
+    {
+      "id": "4",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png ",
+      "job_title": "Customer Service Representative",
+      "company_name": "PQR Corp.",
+      "remote_or_onsite": "Onsite",
+      "location": "Boston, MA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$17 per hour",
+      "job_description": "We are seeking a friendly and reliable Customer Service Representative...",
+      "job_responsibility": "Handle customer inquiries and complaints...",
+      "educational_requirements": "High school diploma or equivalent...",
+      "experiences": "1+ years of experience in customer service...",
+     
+        "phone": "(555) 111-1111",
+        "email": "careers@pqrcorp.com"
+      
+    },
+    {
+      "id": "5",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Data Scientist",
+      "company_name": "Acme Corp.",
+      "remote_or_onsite": "Remote",
+      "location": "Any",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "107k-230k",
+      "job_description": "We are seeking a talented data scientist to join our team...",
+      "job_responsibility": "Analyze large and complex datasets...",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science, Statistics, or related field...",
+      "experiences": "3+ years of experience in data science or related field...",
+ 
+        "phone": "(555) 456-7890",
+        "email": "careers@acmecorp.com"
+      
+    },
+    {
+      "id": "6",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Sales Manager",
+      "company_name": "Big Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "Chicago, IL",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "170k-250k",
+      "job_description": "We are seeking an experienced sales manager to lead our team...",
+      "job_responsibility": "Develop and implement sales strategies...",
+      "educational_requirements": "Bachelor's degree in Business Administration or related field...",
+      "experiences": "5+ years of experience in sales...",
+     
+        "phone": "(555) 222-3333",
+        "email": "careers@bigco.com"
+      
+    },
+    {
+      "id": "7",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "UX Designer",
+      "company_name": "Creative Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "133k-280k",
+      "job_description": "We are seeking a talented UX designer to join our team...",
+      "job_responsibility": "Design and prototype user interfaces...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field...",
+      "experiences": "2+ years of experience in UX design...",
+      "phone": "(555) 777-8888",
+      "email": "careers@creativeco.com"
+    },
+    {
+      "id": "8",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Project Manager",
+      "company_name": "Dyna Corp.",
+      "remote_or_onsite": "Onsite",
+      "location": "Seattle, WA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "190k-270k",
+      "job_description": "We are seeking an experienced project manager to lead our team...",
+      "job_responsibility": "Plan and execute projects...",
+      "educational_requirements": "Bachelor's degree in Project Management or related field...",
+      "experiences": "5+ years of experience in project management...",
+
+      "phone": "(555) 444-5555",
+      "email": "careers@dynacorp.com"
+    },
+    {
+      "id": "9",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Software Engineer",
+      "company_name": "ABC Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "160k-250k",
+      "job_description": "We are seeking a highly skilled software engineer to join our team...",
+      "job_responsibility": "Design, develop, and maintain software applications...",
+      "educational_requirements": "Bachelor's or Master's degree in Computer Science...",
+      "experiences": "3+ years of experience in software development...",
+
+      "phone": "(555) 123-4567",
+      "email": "careers@abcinc.com"
+    },
+    {
+      "id": "10",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Marketing Manager",
+      "company_name": "XYZT Corp.",
+      "remote_or_onsite": "Remote",
+      "location": "Any",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "144k-277k",
+      "job_description": "We are looking for a creative and driven Marketing Manager...",
+      "job_responsibility": "Develop and execute marketing campaigns...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field...",
+      "experiences": "5+ years of experience in marketing...",
+
+      "phone": "(555) 987-6543",
+      "email": "careers@xyzcorp.com"
+    },
+    {
+      "id": "11",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Graphic Designer",
+      "company_name": "LMN Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "189k-340k",
+      "job_description": "We are seeking a talented Graphic Designer...",
+      "job_responsibility": "Create visual concepts...",
+      "educational_requirements": "Bachelor's degree in Graphic Design or related field...",
+      "experiences": "2+ years of experience in graphic design...",
+      "phone": "(555) 555-5555",
+      "email": "careers@lmnco.com"
+    },
+    {
+      "id": "12",
+      "company_logo": "https://i.ibb.co/mqNvBsn/google-1-1-1.png",
+      "job_title": "Customer Service Representative",
+      "company_name": "PQRT Corp.",
+      "remote_or_onsite": "Onsite",
+      "location": "Boston, MA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$50 per hour",
+      "job_description": "We are seeking a friendly and reliable Customer Service Representative...",
+      "job_responsibility": "Handle customer inquiries and complaints...",
+      "educational_requirements": "High school diploma or equivalent...",
+      "experiences": "1+ years of experience in customer service...",
+      "phone": "(555) 111-1111",
+      "email": "careers@pqrcorp.com"
+    }
+  ],
+  [
+    {
+      "id": "1",
+      "job_category_icon": "https://i.ibb.co/F5380dR/accounts-1.png",
+      "job_category": "Account & Finance",
+      "job_available": "300 Jobs Available"
+    },
+    {
+      "id": "2",
+      "job_category_icon": "https://i.ibb.co/K6czhc5/business-1.png",
+      "job_category": "Creative Design",
+      "job_available": "100+ Jobs Available"
+    },
+    {
+      "id": "3",
+      "job_category_icon": "https://i.ibb.co/0cY0Xp3/social-media-1.png",
+      "job_category": "Marketing & Sales",
+      "job_available": "150 Jobs Available"
+    },
+    {
+      "id": "4",
+      "job_category_icon": "https://i.ibb.co/C0PWBGP/chip-1.png",
+      "job_category": "Engineering Job",
+      "job_available": "224 Jobs Available"
+    }
+  ]
+]
